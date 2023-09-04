@@ -1,0 +1,19 @@
+Package: praisme
+Title: Deliver Praise to Someone
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Aidan",
+           family = "Laus",
+           email = "aidan.laus@students.mq.edu.au", 
+           role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package aims to deliver a little praise whenever you need it.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    glue
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
