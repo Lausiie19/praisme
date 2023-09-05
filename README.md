@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of praisme is to …
+The goal of praisme is to praise!
 
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
